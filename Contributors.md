@@ -117,6 +117,7 @@
 - [Juan M]
 - [luissoy] (https://github.com/luissabio)
 - [AdrianRochaPoza] (https://github.com/AdrianRochaPoza)
+-[Aryan Sharma](https://github.com/AryanSharma21)
 - [alesabio] (https://github.com/alesabio)
 - [NTP] (https://github.com/duralumin02)
 - [Carl Che] (https://github.com/CarlChe)
